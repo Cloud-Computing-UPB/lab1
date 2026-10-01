@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/florinmihalache/ticketing/internal/ticket"
+	"github.com/Cloud-Computing-UPB/lab1/internal/ticket"
 )
 
 // Memory is a thread-safe in-memory ticket store. Data is lost on restart.

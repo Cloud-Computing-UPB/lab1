@@ -9,7 +9,7 @@ import (
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
 
-	"github.com/florinmihalache/ticketing/internal/ticket"
+	"github.com/Cloud-Computing-UPB/lab1/internal/ticket"
 )
 
 const schema = `

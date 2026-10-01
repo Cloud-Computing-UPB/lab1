@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/florinmihalache/ticketing/internal/ticket"
+	"github.com/Cloud-Computing-UPB/lab1/internal/ticket"
 )
 
 // testStore runs the same behavioural contract against any ticket.Store.

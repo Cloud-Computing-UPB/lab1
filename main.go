@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/florinmihalache/ticketing/internal/store"
-	"github.com/florinmihalache/ticketing/internal/ticket"
+	"github.com/Cloud-Computing-UPB/lab1/internal/store"
+	"github.com/Cloud-Computing-UPB/lab1/internal/ticket"
 )
 
 func main() {

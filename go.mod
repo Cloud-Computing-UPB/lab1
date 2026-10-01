@@ -1,4 +1,4 @@
-module github.com/florinmihalache/ticketing
+module github.com/Cloud-Computing-UPB/lab1
 
 go 1.23.3
 
