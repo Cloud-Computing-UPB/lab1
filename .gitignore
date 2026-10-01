@@ -1,0 +1,14 @@
+# Binaries
+/ticketing
+*.exe
+*.test
+*.out
+coverage.*
+
+# Local env
+.env
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
